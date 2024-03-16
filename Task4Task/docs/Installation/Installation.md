@@ -10,7 +10,7 @@
     - Instala las dependencias con el comando: `pip install -r requirements.txt`
     - Inicia el backend con el comando: `python manage.py runserver`
 
-# Instalación del backend
+# Instalación del frontend
 
 1. **Obtener el Proyecto**:
    - Clona el repositorio de GitHub
